@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @HvostAp
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Dmitry N.
+- 👀 I’m interested in Front end 
+- 🌱 I’m currently learning HTML/CSS/JS
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me nickolscky.dima@yandex.ru // discord NDY#1344
 
 <!---
 HvostAp/HvostAp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
