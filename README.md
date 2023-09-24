@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front end 
 - 🌱 I’m currently learning HTML/CSS/JS
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me nickolscky.dima@yandex.ru // discord NDY#1344
+- 📫 How to reach me nickolscky.dima@yandex.ru // discord flichas
 
 <!---
 Dmitry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
